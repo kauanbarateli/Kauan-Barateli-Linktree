@@ -113,6 +113,12 @@ body {
   transition: all 0.25s ease;
 }
 
+.btn.portfolio {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
 .icon {
   display: flex;
   align-items: center;
